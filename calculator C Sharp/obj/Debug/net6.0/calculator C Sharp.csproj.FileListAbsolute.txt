@@ -1,0 +1,15 @@
+C:\Users\Mahsa\OneDrive\Desktop\c# Test\calculator C Sharp\calculator C Sharp\bin\Debug\net6.0\calculator C Sharp.exe
+C:\Users\Mahsa\OneDrive\Desktop\c# Test\calculator C Sharp\calculator C Sharp\bin\Debug\net6.0\calculator C Sharp.deps.json
+C:\Users\Mahsa\OneDrive\Desktop\c# Test\calculator C Sharp\calculator C Sharp\bin\Debug\net6.0\calculator C Sharp.runtimeconfig.json
+C:\Users\Mahsa\OneDrive\Desktop\c# Test\calculator C Sharp\calculator C Sharp\bin\Debug\net6.0\calculator C Sharp.dll
+C:\Users\Mahsa\OneDrive\Desktop\c# Test\calculator C Sharp\calculator C Sharp\bin\Debug\net6.0\ref\calculator C Sharp.dll
+C:\Users\Mahsa\OneDrive\Desktop\c# Test\calculator C Sharp\calculator C Sharp\bin\Debug\net6.0\calculator C Sharp.pdb
+C:\Users\Mahsa\OneDrive\Desktop\c# Test\calculator C Sharp\calculator C Sharp\obj\Debug\net6.0\calculator C Sharp.csproj.AssemblyReference.cache
+C:\Users\Mahsa\OneDrive\Desktop\c# Test\calculator C Sharp\calculator C Sharp\obj\Debug\net6.0\calculator C Sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahsa\OneDrive\Desktop\c# Test\calculator C Sharp\calculator C Sharp\obj\Debug\net6.0\calculator C Sharp.AssemblyInfoInputs.cache
+C:\Users\Mahsa\OneDrive\Desktop\c# Test\calculator C Sharp\calculator C Sharp\obj\Debug\net6.0\calculator C Sharp.AssemblyInfo.cs
+C:\Users\Mahsa\OneDrive\Desktop\c# Test\calculator C Sharp\calculator C Sharp\obj\Debug\net6.0\calculator C Sharp.csproj.CoreCompileInputs.cache
+C:\Users\Mahsa\OneDrive\Desktop\c# Test\calculator C Sharp\calculator C Sharp\obj\Debug\net6.0\calculator C Sharp.dll
+C:\Users\Mahsa\OneDrive\Desktop\c# Test\calculator C Sharp\calculator C Sharp\obj\Debug\net6.0\ref\calculator C Sharp.dll
+C:\Users\Mahsa\OneDrive\Desktop\c# Test\calculator C Sharp\calculator C Sharp\obj\Debug\net6.0\calculator C Sharp.pdb
+C:\Users\Mahsa\OneDrive\Desktop\c# Test\calculator C Sharp\calculator C Sharp\obj\Debug\net6.0\calculator C Sharp.genruntimeconfig.cache
